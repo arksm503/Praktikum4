@@ -47,16 +47,16 @@
  Tetapi Jika total belanja diantara 501,000 sampai 1,000,000 maka mendapat diskon sebesar 5%
  Selain itu tidak //maksudnya dibawah 501.000 tidak mendapat diskon
 
-Berikut Flowchart Praktikum 4 :
+Berikut Flowchart Praktikum 4 :<br/><br/>
 ![alt text](https://raw.githubusercontent.com/arkyana/Praktikum4/master/img/flowchart.png)
 
-Screenshot Jika total bayar diatas 1 Juta :
+Screenshot Jika total bayar diatas 1 Juta :<br/><br/>
 ![alt text](https://raw.githubusercontent.com/arkyana/Praktikum4/master/img/diatas1jt.png)
 
-Screenshot Jika total bayar diantara 501,000 hingga 1 Juta :
+Screenshot Jika total bayar diantara 501,000 hingga 1 Juta :<br/><br/>
 ![alt text](https://raw.githubusercontent.com/arkyana/Praktikum4/master/img/500k.png)
 
-Screenshot Jika total bayar dibawah 501,000 :
+Screenshot Jika total bayar dibawah 501,000 :<br/><br/>
 ![alt text](https://raw.githubusercontent.com/arkyana/Praktikum4/master/img/dibawah500.png)
 
 
